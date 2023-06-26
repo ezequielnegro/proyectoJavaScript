@@ -1,12 +1,9 @@
 let respuestaA = 0, respuestaB = 0, respuesta, resultRespuesta = 0, cont = 1,
-    pregunta, resultado,reintentos = 1
+    pregunta,reintentos = 1
 
 
 
 cuestionario(5)
-
-
-
 
 
 // funciones
